@@ -1,5 +1,5 @@
 # hydropotential
 
-## [Nodes](https://raw.githubusercontent.com/armistec/hydropotential/master/nodes/Index.html)
+## [Nodes]("https://armistec.github.io/hydropotential/nodes/index.html")
 
 ## [Map](https://www.google.com)
