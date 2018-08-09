@@ -2,4 +2,4 @@
 
 ## [Nodes](/nodes/Index.html)
 
-## [Map](/map/index.html)
+## [Map](/Map/index.html)
