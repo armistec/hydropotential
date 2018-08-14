@@ -195,7 +195,7 @@ t.selectAll('path')
   .attr('stroke', '#f8991d')
   .attr('d', geoPath)
   //.attr('i', function(d) { return d.properties.GEOID; })
-  .on("mouseover", function(d) { focus.style("display", null), focus.attr('fill', color(d.properties.GEOID)); })
+  .on("mouseover", function(d) { focus.style("display", null), focus.attr('fill', color2(d.properties.GEOID)); })
   .on("mouseout", function() { focus.style("display", "none"); })
   .append("svg:title")
   .text(function(d) {return d.properties.NAME});
